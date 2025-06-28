@@ -35,7 +35,7 @@ function HowToReach() {
               </div>
               <div className={styles.detailItem}>
                 <FaClock color="var(--color-red)" />
-                <p>Just <span className={`${styles.highlight} ${styles.trainHighlight}`}>1.3 km</span> from campus</p>
+                <p>Just <span className={`${styles.highlight} ${styles.trainHighlight}`}>1 km</span> from campus</p>
               </div>
               <div className={styles.detailItem}>
                 <FaInfoCircle color="var(--color-red)" />
@@ -75,7 +75,7 @@ function HowToReach() {
               </div>
               <div className={styles.detailItem}>
                 <FaClock color="var(--color-orange)" />
-                <p>Only <span className={`${styles.highlight} ${styles.busHighlight}`}>1.3 km</span> from campus</p>
+                <p>Only <span className={`${styles.highlight} ${styles.busHighlight}`}>0.5 km</span> from campus</p>
               </div>
               <div className={styles.detailItem}>
                 <FaInfoCircle color="var(--color-orange)" />
