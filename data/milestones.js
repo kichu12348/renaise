@@ -2,7 +2,7 @@ const milestones = [
   {
     id: 1,
     year: 2015,
-    image: "/stuff/milestones/iedc_inception.jpeg",
+    image: "/stuff/milestones/iedc_inception.jpg",
     title: "IEDC Inception",
     description:
       "The Innovation and Entrepreneurship Development Centre was established to foster innovation and entrepreneurial culture among students.",
@@ -10,7 +10,7 @@ const milestones = [
   {
     id: 2,
     year: 2020,
-    image: "/stuff/milestones/digi_kerala.jpg",
+    image: "/stuff/milestones/we_cell.jpg",
     title: "Launch of Women Entrepreneurship Cell (WE-Cell)",
     description:
       "A women-led initiative to empower and support aspiring women entrepreneurs at IEDC Bootcamp CEC. WE-Cell aims to provide a platform for innovation, learning, and leadership in a time when women are reshaping the entrepreneurial landscape across India.",

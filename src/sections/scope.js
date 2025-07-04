@@ -15,7 +15,7 @@ function ScopeOfEvent({ scopeTitleRef, scopeSubtitleRef, cardsContainerRef,scope
         <div className={styles.cardsContainer} ref={cardsContainerRef}>
           <div className={styles.card}>
             <div className={styles.cardIcon}>
-              <span className={styles.cardNumber}>1000</span>
+              <span className={styles.cardNumber}>1000+</span>
             </div>
             <h3 className={styles.cardTitle}>Attendees</h3>
             <p className={styles.cardDescription}>
@@ -26,7 +26,7 @@ function ScopeOfEvent({ scopeTitleRef, scopeSubtitleRef, cardsContainerRef,scope
 
           <div className={styles.card}>
             <div className={styles.cardIcon}>
-              <span className={styles.cardNumber}>30</span>
+              <span className={styles.cardNumber}>30+</span>
             </div>
             <h3 className={styles.cardTitle}>Startups</h3>
             <p className={styles.cardDescription}>
@@ -36,7 +36,7 @@ function ScopeOfEvent({ scopeTitleRef, scopeSubtitleRef, cardsContainerRef,scope
 
           <div className={styles.card}>
             <div className={styles.cardIcon}>
-              <span className={styles.cardNumber}>50</span>
+              <span className={styles.cardNumber}>50+</span>
             </div>
             <h3 className={styles.cardTitle}>Mentors</h3>
             <p className={styles.cardDescription}>
