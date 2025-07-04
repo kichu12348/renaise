@@ -189,7 +189,7 @@ function Hero({ scrollToSectionRef, startEndRef, momentsTimelineRef }) {
             scrollTrigger: {
               trigger: heroRef.current,
               start: "top top",
-              end: "+=10000vh",
+              end: "+=15000vh",
               scrub: 1.5,
               pin: true,
               // markers: true, // Set to true for debugging
